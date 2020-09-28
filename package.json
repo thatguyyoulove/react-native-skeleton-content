@@ -80,9 +80,6 @@
     "typescript": "^3.6.4",
     "react-native-gesture-handler": "^1.6.1"
   },
-  "peerDependencies": {
-   
-  },
   "dependencies": {
     "expo-linear-gradient": "^8.2.1",
     "react-native-reanimated": "1.9.0",
